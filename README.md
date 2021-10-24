@@ -12,15 +12,15 @@ Respository created for Python Module
 Results from terminal results:
 
 
-   ![Results_Deliverable_1](Images/Results_Deliverable_1.png)
-   
+   ![Results_Deliverable_1](Images/Results_Deliverable_1.PNG)
+    
    
 
 Results from text file:
    
 
-   ![Results_Deliverable_txt_1](Images/Results_Deliverable_txt_1.png)
-   
+   ![Results_Deliverable_txt_1](Images/Results_Deliverable_txt_1.PNG)
+      
       
    
     1-How many votes were cast in this congressional election?
