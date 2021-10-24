@@ -11,14 +11,14 @@ Respository created for Python Module
 
 Results from terminal results:
      
-   ![Results_Deliverable_1](Resources/Results_Deliverable_1.png)
+   ![Results_Deliverable_1] (Resources/Results_Deliverable_1.png)
+
    
-   ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
 Results from text file:
    
-   ![Results_Deliverable_txt_1](Resources/Results_Deliverable_txt_1.png)
-   
+   ![Results_Deliverable_txt_1] (Resources/Results_Deliverable_txt_1.png)
+      
    
     1-How many votes were cast in this congressional election?
         Total Votes -369,711
