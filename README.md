@@ -11,6 +11,8 @@ Respository created for Python Module
 
 Results from terminal results:
    ![Results_Deliverable_1](Resources/Results_Deliverable_1.png)
+   
+   ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
 Results from text file:
    
@@ -34,7 +36,7 @@ Results from text file:
        
     5-Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
       Diana Degette won the election with vote count = 272,892 and percentage of total votes = 73.8%
-      
+
 ## Election-Audit Summary
 
  ### Examples of how this script can be modified to be used for other elections
